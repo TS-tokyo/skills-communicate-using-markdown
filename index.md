@@ -1,4 +1,4 @@
-# wow 
-![I am groot](https://octodex.github.com/images/yaktocat.png)
+# wow
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
